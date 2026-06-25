@@ -20,4 +20,5 @@
 # LOS CREADORES NO SE HACEN RESPONSABLES AL MAL USO QUE LE DEN, ESTA HERRAMIENTA ES DE USO EDUCATIVO 
 
 mi wallet de bitcoin c: (agradezco cualquier donacion, hasta de 0.1 <3)
+
 bc1q63g3xqrqlvnraxhel9hj5632vqrps8qwyvjhru
